@@ -49,4 +49,3 @@ docker run --rm -it -p 27228:27228 --env-file ./.env ghcr.io/conradludgate/spoti
 
 ## Clean up
 Run `terraform destroy` to delete the playlist and the tracks
-```
