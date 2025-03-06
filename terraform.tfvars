@@ -1,0 +1,2 @@
+spotify_api_key = "BQAaKL4Y5bSHqTVOKF-xf9oqYE6Dybbehsc4rBCFDXGUdqje_1sxb2-3JekVZ6geMYqqXethwcgl9NjumswbmDaer-elwZqYlg___0Rikc4YoVYgXmnXgSjjjysyVrvbVdv-aknB3VI
+"
